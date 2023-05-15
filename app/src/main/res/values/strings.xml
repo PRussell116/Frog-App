@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amphibians</string>
+    <string name="loading">Image Loading</string>
+    <string name="loadingFailed">Failed to load</string>
+    <string name="reload">Attempt to reload</string>
+    <string name="frogAppBar">Frog information</string>
+</resources>
